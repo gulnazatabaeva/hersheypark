@@ -1,0 +1,41 @@
+[ {
+  "picklistValues" : [ {
+    "useIcon" : "true",
+    "optionValue" : "Pre Market",
+    "optionLabel" : "Pre Market",
+    "imageUrl" : "https://www.lightningdesignsystem.com/assets/images/logo.svg",
+    "iconName" : "standard:apps"
+  }, {
+    "useIcon" : "true",
+    "optionValue" : "Available",
+    "optionLabel" : "Available",
+    "imageUrl" : "https://www.lightningdesignsystem.com/assets/images/logo.svg",
+    "iconName" : "custom:custom85"
+  }, {
+    "useIcon" : "true",
+    "optionValue" : "Reserved",
+    "optionLabel" : "Reserved",
+    "imageUrl" : "https://www.lightningdesignsystem.com/assets/images/logo.svg",
+    "iconName" : "utility:priority"
+  }, {
+    "useIcon" : "true",
+    "optionValue" : "Under Agreement",
+    "optionLabel" : "Under Agreement",
+    "imageUrl" : "https://www.lightningdesignsystem.com/assets/images/logo.svg",
+    "iconName" : "standard:default"
+  }, {
+    "useIcon" : "true",
+    "optionValue" : "Contracted",
+    "optionLabel" : "Contracted",
+    "imageUrl" : "https://www.lightningdesignsystem.com/assets/images/logo.svg",
+    "iconName" : "standard:default"
+  }, {
+    "useIcon" : "true",
+    "optionValue" : "Closed",
+    "optionLabel" : "Closed",
+    "imageUrl" : "https://www.lightningdesignsystem.com/assets/images/logo.svg",
+    "iconName" : "standard:default"
+  } ],
+  "objectName" : "Property__c",
+  "fieldName" : "Status__c"
+} ]
