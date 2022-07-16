@@ -8,7 +8,7 @@ public with sharing class MyApexClassTest {
                 update con1;
                 Test.stopTest();
                 
-                Contact con2 = [Select Id, Email From Contact Where con2.Id=con1.Id];
+                Contact con2 = [Select Id, Email From Contact Where con2.Id=:con1.Id];
                 System.assertNotEquals(con1.Email, con2.Email);
                 }
         }
